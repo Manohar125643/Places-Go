@@ -1,0 +1,2 @@
+# Places-Go
+ Django Project
